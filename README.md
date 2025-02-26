@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jay Kamavisdar</h1>
 <h3 align="center">An aspiring student and tech enthusiast graduating in Computer Science Engineering</h3>
 
-- 🌱 I’m currently learning **Java AWT & Swing**
+- 🌱 I’m currently learning **Spring, SpringBoot & Bouncy Castle**
 
-- 💬 Ask me about **HTML, CSS, Python, MySQL, MongoDB, Java, DSA**
+- 💬 Ask me about **HTML, CSS, Python, MySQL, MongoDB, Java, Java Swing, DSA**
 
 - 📫 How to reach me **kamavisdarj@gmail.com**
 
